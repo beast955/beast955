@@ -26,14 +26,9 @@ I’m [Aayush](https://github.com/beast955). I like exploring ideas, learning by
 
 <div align="center">
 
-## GitHub stats
+## Contribution activity
 
-<a href="https://github.com/beast955"><img height="170" src="https://github-readme-stats.vercel.app/api?username=beast955&show_icons=true&hide_border=true&rank_icon=github&bg_color=080B12&title_color=CAB8FF&icon_color=70D8EA&text_color=E8EAF2&ring_color=B451A4&include_all_commits=true" alt="Aayush’s GitHub stats" /></a>
-<a href="https://github.com/beast955"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beast955&layout=compact&hide_border=true&bg_color=080B12&title_color=CAB8FF&text_color=E8EAF2" alt="Most used languages" /></a>
-
-<br />
-
-<a href="https://github.com/beast955"><img width="72%" src="https://streak-stats.demolab.com?user=beast955&hide_border=true&background=080B12&ring=B451A4&fire=70D8EA&currStreakLabel=CAB8FF&sideLabels=E8EAF2&dates=9299AA" alt="GitHub contribution streak" /></a>
+<a href="https://github.com/beast955"><img width="72%" src="https://streak-stats.demolab.com?user=beast955&hide_border=true&background=080B12&ring=B451A4&fire=70D8EA&currStreakLabel=CAB8FF&currStreakNum=E8EAF2&sideLabels=E8EAF2&sideNums=E8EAF2&dates=9299AA" alt="Aayush’s GitHub contribution activity" /></a>
 
 <br />
 
